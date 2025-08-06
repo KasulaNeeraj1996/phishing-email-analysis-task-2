@@ -1,0 +1,38 @@
+Phishing Email Analysis Report
+
+Email Snapshot Summary:
+------------------------
+Subject: Fwd: [UVa Library - Circulation] VIRGINIA WARNING: Closing & Deleting Your Account in Progress!
+Date: Monday, May 09, 2016 10:07 AM
+Sender: Unknown (not shown in screenshot)
+Link Present: Yes (http://bit.ly/1WTXqzB)
+User Addressed: "Hello User!" (no personalization)
+
+Phishing Indicators Identified:
+-------------------------------
+1. Generic Greeting: "Hello User!" - Real institutions usually use the recipient's name.
+2. Urgency & Threat: "within 24 hours", "features will be lost" - Psychological tactic to create panic.
+3. Suspicious CTA Link: "CANCEL REQUEST IMMEDIATELY" using bit.ly - Hides real destination.
+4. Unusual Request: Claims the user requested deletion they didn’t make.
+5. No Reply Address: "Please do not reply to this message..." - Prevents verification.
+6. Lack of Branding: No logo or signature - No contact or official details.
+7. Grammar Issues: "kindly Cancel Request" - Awkward phrasing and formatting.
+8. Forwarded Email: "Fwd:" in subject - Common tactic to confuse source legitimacy.
+
+Analysis of the Link:
+---------------------
+Displayed Link: http://bit.ly/1WTXqzB
+Risk: URL shortener used to hide final destination, possibly malicious.
+Tip: Use VirusTotal or URLscan.io to analyze shortened links safely.
+
+What's Missing in a Legitimate Email:
+-------------------------------------
+- Proper sender info (email & name)
+- Personalization (user's real name/account)
+- Verified domain name in links
+- Contact or support information
+
+Conclusion:
+-----------
+This email displays multiple classic phishing indicators and should be considered dangerous.
+Action: Do NOT click any links. Report the email as phishing or spam.
